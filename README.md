@@ -102,10 +102,3 @@ full‑stack software engineer with 5 years of hands‑on experience transform
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
 </p>
-
-
-
-**Connect with me:**
-
- -Email : kstep854@gmail.com
-
