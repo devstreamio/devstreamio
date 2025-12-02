@@ -107,5 +107,5 @@ full‑stack software engineer with 5 years of hands‑on experience transform
 
 **Connect with me:**
 
- -Email : kstep854@gmail.com
+
 
