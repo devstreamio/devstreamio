@@ -46,10 +46,6 @@
       <br>C++
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
-      <br>GoLang
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
     </td>
@@ -75,10 +71,6 @@
   <td align="center" width="80">
     <img src="./icons/Bitcoin.svg" height="45" >
     <br>Bitcoin
-  </td>
-  <td align="center" width="80">
-    <img src="./icons/aptos1.png" height="45" >
-    <br>Aptos
   </td>
   <td align="center" width="80">
     <img src="./icons/polkadot1.png" height="45" >
@@ -139,10 +131,6 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
       <br>MySQL
     </td>
@@ -164,10 +152,6 @@
     <td align="center" width="80">
       <img src="./icons/huggingface.svg" width="45" height="45" alt="HuggingFace" />
       <br>Hugging Face
-    </td>
-    <td align="center" width="80">
-      <img src="./icons/eliza.jpg" width="45" height="45" alt="Eliza" />
-      <br>ElizaOS
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
