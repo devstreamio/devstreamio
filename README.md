@@ -4,6 +4,9 @@
 </h1>
 
 <br>
+<div align="center">
+  <h2 >💦 My main skills 💦</h2>
+</div>
   
   
 <div>
@@ -19,7 +22,224 @@
   />
 </p>
 
-<table align="center">
+
+<!-- ========== SKILLS GRID (RESPONSIVE, NO SCROLL) ========== -->
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px;">
+
+  <!-- Programming Languages -->
+  <div style="width:90px; text-align:center;">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" />
+    <div>Javascript</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" />
+    <div>Typescript</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=rust" width="45" />
+    <div>Rust</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=solidity" width="45" />
+    <div>Solidity</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" />
+    <div>Python</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=cpp" width="45" />
+    <div>C++</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=go" width="45" />
+    <div>GoLang</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=php" width="45" />
+    <div>PHP</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=ruby" width="45" />
+    <div>Ruby</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=java" width="45" />
+    <div>Java</div>
+  </div>
+
+
+  <!-- Networks -->
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/solana.png" height="45" />
+    <div>Solana</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/ethereum.png" height="45" />
+    <div>Ethereum</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/Bitcoin.svg" height="45" />
+    <div>Bitcoin</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/aptos1.png" height="45" />
+    <div>Aptos</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/polkadot1.png" height="45" />
+    <div>Polkadot</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/cosmos.png" height="45" />
+    <div>Cosmos</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/polygon1.png" height="45" />
+    <div>Polygon</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/ton.png" height="45" />
+    <div>Ton</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/trx.png" height="45" />
+    <div>Tron</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/sui.png" height="45" />
+    <div>Sui</div>
+  </div>
+
+
+  <!-- Frameworks & Tools -->
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
+    <div>Node.js</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=express" width="45" />
+    <div>Express</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" />
+    <div>React</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" />
+    <div>Next.js</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" />
+    <div>Django</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=laravel" width="45" />
+    <div>Laravel</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=angular" width="45" />
+    <div>Angular</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=postgres" width="45" />
+    <div>PostgreSQL</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
+    <div>MongoDB</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" />
+    <div>MySQL</div>
+  </div>
+
+
+  <!-- AI / LLM Tools -->
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/openai.png" width="45" />
+    <div>OpenAI</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/deepseek.svg" width="45" />
+    <div>DeepSeek</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/Langchain.svg" width="45" />
+    <div>LangChain</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/huggingface.svg" width="45" />
+    <div>Hugging Face</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/eliza.jpg" width="45" />
+    <div>ElizaOS</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="45" />
+    <div>TensorFlow</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=pytorch" width="45" />
+    <div>PyTorch</div>
+  </div>
+
+  <div style="width:90px; text-align:center%;">
+    <img src="./icons/ollama.svg" width="45" />
+    <div>Ollama</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="45" />
+    <div>FastAPI</div>
+  </div>
+
+  <div style="width:90px; text-align:center;">
+    <img src="./icons/vapi.png" width="45" />
+    <div>VApi</div>
+  </div>
+
+</div>
+
+
+
+
+<!-- <table align="center">
 <!-- skill -->
   <tr>
     <td align="center" width="90">
@@ -192,7 +412,7 @@
     </td>
   </tr>
   
-</table>
+</table> -->
 
 
 ### Cloud & Serverless
