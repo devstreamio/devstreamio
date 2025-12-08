@@ -5,7 +5,7 @@
 
 <br>
 <div align="center">
-  <h2 >💦 My main skills 💦</h2>
+  <h2>💦 My main skills 💦</h2>
 </div>
   
   
@@ -22,197 +22,92 @@
   />
 </p>
 
-<!-- Responsive Skills Grid -->
 <style>
-  .skills-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
+  .skills-table-wrapper {
     max-width: 846px;
     margin: auto;
+    overflow-x: hidden; /* remove scroll */
   }
-  .skill-item {
-    width: 80px;
+  .skills-table td {
+    padding: 8px;
     text-align: center;
+    white-space: nowrap; /* Keep label under icon */
   }
-  .skill-item img {
-    max-width: 55px;
-    max-height: 55px;
+  .skills-table img {
+    max-width: 48px;
+    height: auto;
+  }
+
+  /* Responsive icons for narrower widths */
+  @media (max-width: 846px) {
+    .skills-table img {
+      max-width: 38px;
+    }
   }
 </style>
 
-<div class="skills-grid">
+<div class="skills-table-wrapper">
+<table class="skills-table" align="center">
 
-  <!-- Programming Languages -->
-  <div class="skill-item">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" />
-    <br>Javascript
-  </div>
-  <div class="skill-item">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" />
-    <br>Typescript
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=rust" />
-    <br>Rust
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=solidity" />
-    <br>Solidity
-  </div>
-  <div class="skill-item">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" />
-    <br>Python
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=cpp" />
-    <br>C++
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=go" />
-    <br>GoLang
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=php" />
-    <br>PHP
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=ruby" />
-    <br>Ruby
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=java" />
-    <br>Java
-  </div>
+  <!-- skill -->
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg"><br>Javascript</td>
+    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg"><br>Typescript</td>
+    <td><img src="https://skillicons.dev/icons?i=rust"><br>Rust</td>
+    <td><img src="https://skillicons.dev/icons?i=solidity"><br>Solidity</td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg"><br>Python</td>
+    <td><img src="https://skillicons.dev/icons?i=cpp"><br>C++</td>
+    <td><img src="https://skillicons.dev/icons?i=go"><br>GoLang</td>
+    <td><img src="https://skillicons.dev/icons?i=php"><br>PHP</td>
+    <td><img src="https://skillicons.dev/icons?i=ruby"><br>Ruby</td>
+    <td><img src="https://skillicons.dev/icons?i=java"><br>Java</td>
+  </tr>
 
-  <!-- Networks -->
-  <div class="skill-item">
-    <img src="./icons/solana.png" height="45">
-    <br>Solana
-  </div>
-  <div class="skill-item">
-    <img src="./icons/ethereum.png" height="45">
-    <br>Ethereum
-  </div>
-  <div class="skill-item">
-    <img src="./icons/Bitcoin.svg" height="45">
-    <br>Bitcoin
-  </div>
-  <div class="skill-item">
-    <img src="./icons/aptos1.png" height="45">
-    <br>Aptos
-  </div>
-  <div class="skill-item">
-    <img src="./icons/polkadot1.png" height="45">
-    <br>Polkadot
-  </div>
-  <div class="skill-item">
-    <img src="./icons/cosmos.png" height="45">
-    <br>Cosmos
-  </div>
-  <div class="skill-item">
-    <img src="./icons/polygon1.png" height="45">
-    <br>Polygon
-  </div>
-  <div class="skill-item">
-    <img src="./icons/ton.png" height="45">
-    <br>Ton
-  </div>
-  <div class="skill-item">
-    <img src="./icons/trx.png" height="45">
-    <br>Tron
-  </div>
-  <div class="skill-item">
-    <img src="./icons/sui.png" height="45">
-    <br>Sui
-  </div>
+  <!-- network -->
+  <tr>
+    <td><img src="./icons/solana.png"><br>Solana</td>
+    <td><img src="./icons/ethereum.png"><br>Ethereum</td>
+    <td><img src="./icons/Bitcoin.svg"><br>Bitcoin</td>
+    <td><img src="./icons/aptos1.png"><br>Aptos</td>
+    <td><img src="./icons/polkadot1.png"><br>Polkadot</td>
+    <td><img src="./icons/cosmos.png"><br>Cosmos</td>
+    <td><img src="./icons/polygon1.png"><br>Polygon</td>
+    <td><img src="./icons/ton.png"><br>Ton</td>
+    <td><img src="./icons/trx.png"><br>Tron</td>
+    <td><img src="./icons/sui.png"><br>Sui</td>
+  </tr>
 
-  <!-- Frameworks & Tools -->
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-    <br>Nodejs
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=express" />
-    <br>Express
-  </div>
-  <div class="skill-item">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" />
-    <br>React
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
-    <br>Next.js
-  </div>
-  <div class="skill-item">
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" />
-    <br>Django
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=laravel" />
-    <br>Laravel
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=angular" />
-    <br>Angular
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-    <br>PostgreSQL
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-    <br>MongoDB
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <br>MySQL
-  </div>
+  <!-- frameworks -->
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs"><br>Nodejs</td>
+    <td><img src="https://skillicons.dev/icons?i=express"><br>Express</td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg"><br>React</td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs"><br>Next.js</td>
+    <td><img src="https://techstack-generator.vercel.app/django-icon.svg"><br>Django</td>
+    <td><img src="https://skillicons.dev/icons?i=laravel"><br>Laravel</td>
+    <td><img src="https://skillicons.dev/icons?i=angular"><br>Angular</td>
+    <td><img src="https://skillicons.dev/icons?i=postgres"><br>PostgreSQL</td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb"><br>MongoDB</td>
+    <td><img src="https://skillicons.dev/icons?i=mysql"><br>MySQL</td>
+  </tr>
 
-  <!-- Common AI Tools -->
-  <div class="skill-item">
-    <img src="./icons/openai.png" />
-    <br>OpenAI
-  </div>
-  <div class="skill-item">
-    <img src="./icons/deepseek.svg" />
-    <br>DeepSeek
-  </div>
-  <div class="skill-item">
-    <img src="./icons/Langchain.svg" />
-    <br>LangChain
-  </div>
-  <div class="skill-item">
-    <img src="./icons/huggingface.svg" />
-    <br>Hugging Face
-  </div>
-  <div class="skill-item">
-    <img src="./icons/eliza.jpg" />
-    <br>ElizaOS
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
-    <br>TensorFlow
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=pytorch" />
-    <br>PyTorch
-  </div>
-  <div class="skill-item">
-    <img src="./icons/ollama.svg" />
-    <br>Ollama
-  </div>
-  <div class="skill-item">
-    <img src="https://skillicons.dev/icons?i=fastapi" />
-    <br>FastAPI
-  </div>
-  <div class="skill-item">
-    <img src="./icons/vapi.png" />
-    <br>VApi
-  </div>
+  <!-- common -->
+  <tr>
+    <td><img src="./icons/openai.png"><br>OpenAI</td>
+    <td><img src="./icons/deepseek.svg"><br>DeepSeek</td>
+    <td><img src="./icons/Langchain.svg"><br>LangChain</td>
+    <td><img src="./icons/huggingface.svg"><br>Hugging Face</td>
+    <td><img src="./icons/eliza.jpg"><br>ElizaOS</td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow"><br>TensorFlow</td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch"><br>PyTorch</td>
+    <td><img src="./icons/ollama.svg"><br>Ollama</td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi"><br>FastAPI</td>
+    <td><img src="./icons/vapi.png"><br>VApi</td>
+  </tr>
 
+</table>
 </div>
+
 
 
 ### Cloud & Serverless
