@@ -194,32 +194,7 @@
   
 </table>
 
-### Languages & Frameworks
-<p>
-  <img alt="React 18" src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black" />
-  <img alt="Next.js 14" src="https://img.shields.io/badge/Next.js-14-000000?logo=nextdotjs&logoColor=white" />
-  <img alt="Angular 17" src="https://img.shields.io/badge/Angular-17-DD0031?logo=angular&logoColor=white" />
-  <img alt="Vue 3" src="https://img.shields.io/badge/Vue-3-4FC08D?logo=vuedotjs&logoColor=white" />
-  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-5-FF3E00?logo=svelte&logoColor=white" />
-  <img alt="TypeScript ES2023" src="https://img.shields.io/badge/TypeScript-ES2023-3178C6?logo=typescript&logoColor=white" />
-  <img alt="JavaScript ES2023" src="https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-latest-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img alt="Go 1.22" src="https://img.shields.io/badge/Go-1.22-00ADD8?logo=go&logoColor=white" />
-  <img alt=".NET 8" src="https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white" />
-  <img alt="ASP.NET Core 8" src="https://img.shields.io/badge/ASP.NET_Core-8.0-512BD4?logo=dotnet&logoColor=white" />
-  <img alt="Entity Framework Core" src="https://img.shields.io/badge/EF_Core-8.0-512BD4?logo=dotnet&logoColor=white" />
-  <img alt="Node.js 20" src="https://img.shields.io/badge/Node.js-20-339933?logo=nodedotjs&logoColor=white" />
-  <img alt="Python 3.12" src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-latest-009688?logo=fastapi&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-5.0-092E20?logo=django&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-3.0-000000?logo=flask&logoColor=white" />
-  <img alt="Java 17 / Spring Boot" src="https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=springboot&logoColor=white" />
-  <img alt="PHP 8 / Laravel" src="https://img.shields.io/badge/Laravel-10-FF2D20?logo=laravel&logoColor=white" />
-  <img alt="Ruby on Rails 7" src="https://img.shields.io/badge/Rails-7-CC0000?logo=rubyonrails&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white" />
-</p>
+
 
 ### Cloud & Serverless
 <p>
@@ -233,18 +208,6 @@
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
 </p>
 
-### Databases & Messaging
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img alt="Firestore" src="https://img.shields.io/badge/Firestore-FFCA28?logo=googlecloud&logoColor=black" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
-  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" />
-</p>
 
 ### CMS & Commerce
 <p>
