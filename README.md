@@ -226,4 +226,7 @@
 </div>
 
 <br>
-![snake gif](https://github.com/igdev116/igdev116/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/igdev116/igdev116/output/github-contribution-grid-snake.svg)
+
+</br>
