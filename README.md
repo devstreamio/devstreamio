@@ -1,12 +1,7 @@
 
-### Hey 👋🏽, I'm a [Fullstack, AI & blockchain developer]
-
-<br/>
-
-full‑stack software engineer with 5 years of hands‑on experience transforming sketch‑board concepts into production‑grade web and cloud solutions. I specialize in building pixel‑perfect, sub‑100‑ms interfaces with React/Next.js and TypeScript, while architecting resilient, event‑driven back‑ends in .NET 8, Node.js 20, Python (FastAPI/Django), and Java (Spring Boot). My toolbox spans micro‑frontend architectures, design‑token pipelines, AI‑powered data‑visualization dashboards, and CI/CD automation with Docker, Kubernetes, and Terraform. A relentless advocate for performance, accessibility, and DevOps culture, I mentor cross‑disciplinary teams, enforce Web‑Vitals budgets, and translate ambiguous stakeholder ideas into secure, scalable, and maintainable products that delight millions of users.
-
-
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;❤Senior+Blockchain+Developer❤;+Passinate+and+Reliable+Developer;" />
+</h1>
   
 <br>
 <br>
@@ -102,8 +97,3 @@ full‑stack software engineer with 5 years of hands‑on experience transform
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
 </p>
-
-
-
-
-
