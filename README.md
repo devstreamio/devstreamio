@@ -197,39 +197,47 @@
 
 
 ### Cloud & Serverless
-<p>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-Cloud-0089D6?logo=microsoftazure&logoColor=white" />
-  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white" />
-  <img alt="GCP Cloud Run" src="https://img.shields.io/badge/Cloud_Run-4285F4?logo=googlecloud&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
-</p>
+<div align="center">
+
+<img alt="Azure" src="https://img.shields.io/badge/Azure-Cloud-0089D6?logo=microsoftazure&logoColor=white" />
+<img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white" />
+<img alt="GCP Cloud Run" src="https://img.shields.io/badge/Cloud_Run-4285F4?logo=googlecloud&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+<img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" />
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
+
+</div>
 
 
 ### CMS & Commerce
-<p>
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
-  <img alt="WooCommerce" src="https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white" />
-  <img alt="Shopify" src="https://img.shields.io/badge/Shopify-96BF48?logo=shopify&logoColor=white" />
-  <img alt="Drupal" src="https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white" />
-  <img alt="Umbraco" src="https://img.shields.io/badge/Umbraco-3544B1?logo=umbraco&logoColor=white" />
-  <img alt="Magento" src="https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=white" />
-  <img alt="Contentful" src="https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=white" />
-  <img alt="Strapi" src="https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white" />
-</p>
+<div align="center">
+
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+<img alt="WooCommerce" src="https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white" />
+<img alt="Shopify" src="https://img.shields.io/badge/Shopify-96BF48?logo=shopify&logoColor=white" />
+<img alt="Drupal" src="https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white" />
+<img alt="Umbraco" src="https://img.shields.io/badge/Umbraco-3544B1?logo=umbraco&logoColor=white" />
+<img alt="Magento" src="https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=white" />
+<img alt="Contentful" src="https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=white" />
+<img alt="Strapi" src="https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white" />
+
+</div>
+
 
 ### DevOps & Testing
-<p>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
-  <img alt="Argo CD" src="https://img.shields.io/badge/Argo_CD-FD7A3A?logo=argo&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
-  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" />
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
-</p>
+<div align="center">
+
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+<img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white" />
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+<img alt="Argo CD" src="https://img.shields.io/badge/Argo_CD-FD7A3A?logo=argo&logoColor=white" />
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
+<img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" />
+<img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" />
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white" />
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
+
+</div>
+
