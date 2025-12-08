@@ -228,5 +228,3 @@
 <br>
 
 ![snake gif](https://raw.githubusercontent.com/igdev116/igdev116/output/github-contribution-grid-snake.svg)
-
-</br>
