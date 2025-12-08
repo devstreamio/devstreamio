@@ -18,7 +18,7 @@
     alt="Animated terminal session"
   />
 </p>
-<br>
+
 <table align="center">
 <!-- skill -->
   <tr>
@@ -193,7 +193,6 @@
   </tr>
   
 </table>
-
 
 
 ### Cloud & Serverless
