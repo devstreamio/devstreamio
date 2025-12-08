@@ -22,91 +22,182 @@
   />
 </p>
 
-<style>
-  .skills-table-wrapper {
-    max-width: 846px;
-    margin: auto;
-    overflow-x: hidden; /* remove scroll */
-  }
-  .skills-table td {
-    padding: 8px;
-    text-align: center;
-    white-space: nowrap; /* Keep label under icon */
-  }
-  .skills-table img {
-    max-width: 48px;
-    height: auto;
-  }
 
-  /* Responsive icons for narrower widths */
-  @media (max-width: 846px) {
-    .skills-table img {
-      max-width: 38px;
-    }
-  }
-</style>
-
-<div class="skills-table-wrapper">
-<table class="skills-table" align="center">
-
-  <!-- skill -->
+<table align="center">
+<!-- skill -->
   <tr>
-    <td style="width:85px; height:90px;"><img src="https://techstack-generator.vercel.app/js-icon.svg"><br>Javascript</td>
-    <td style="width:85px; height:90px;"><img src="https://techstack-generator.vercel.app/ts-icon.svg"><br>Typescript</td>
-    <td style="width:85px; height:90px;"><img src="https://skillicons.dev/icons?i=rust"><br>Rust</td>
-    <td style="width:85px; height:90px;"><img src="https://skillicons.dev/icons?i=solidity"><br>Solidity</td>
-    <td style="width:85px; height:90px;"><img src="https://techstack-generator.vercel.app/python-icon.svg"><br>Python</td>
-    <td style="width:85px; height:90px;"><img src="https://skillicons.dev/icons?i=cpp"><br>C++</td>
-    <td style="width:85px; height:90px;"><img src="https://skillicons.dev/icons?i=go"><br>GoLang</td>
-    <td style="width:85px; height:90px;"><img src="https://skillicons.dev/icons?i=php"><br>PHP</td>
-    <td style="width:85px; height:90px;"><img src="https://skillicons.dev/icons?i=ruby"><br>Ruby</td>
-    <td style="width:85px; height:90px;"><img src="https://skillicons.dev/icons?i=java"><br>Java</td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+     <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
+      <br>C++
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
+      <br>GoLang
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" />
+      <br>java
+    </td>
   </tr>
-
   <!-- network -->
-  <tr>
-    <td style="width:85px; height:95px;"><img src="./icons/solana.png"><br>Solana</td>
-    <td style="width:85px; height:95px;"><img src="./icons/ethereum.png"><br>Ethereum</td>
-    <td style="width:85px; height:95px;"><img src="./icons/Bitcoin.svg"><br>Bitcoin</td>
-    <td style="width:85px; height:95px;"><img src="./icons/aptos1.png"><br>Aptos</td>
-    <td style="width:85px; height:95px;"><img src="./icons/polkadot1.png"><br>Polkadot</td>
-    <td style="width:85px; height:95px;"><img src="./icons/cosmos.png"><br>Cosmos</td>
-    <td style="width:85px; height:95px;"><img src="./icons/polygon1.png"><br>Polygon</td>
-    <td style="width:85px; height:95px;"><img src="./icons/ton.png"><br>Ton</td>
-    <td style="width:85px; height:95px;"><img src="./icons/trx.png"><br>Tron</td>
-    <td style="width:85px; height:95px;"><img src="./icons/sui.png"><br>Sui</td>
+<tr>
+  <td align="center" width="85">
+    <img src="./icons/solana.png" height="45" >
+    <br>Solana
+  </td>
+  <td align="center" width="85">
+    <img src="./icons/ethereum.png" height="45" >
+    <br>Ethereum
+  </td>
+  <td align="center" width="85">
+    <img src="./icons/Bitcoin.svg" height="45" >
+    <br>Bitcoin
+  </td>
+  <td align="center" width="85">
+    <img src="./icons/aptos1.png" height="45" >
+    <br>Aptos
+  </td>
+  <td align="center" width="85">
+    <img src="./icons/polkadot1.png" height="45" >
+    <br>Polkadot
+  </td>
+  <td align="center" width="85">
+    <img src="./icons/cosmos.png" height="45" >
+    <br>Cosmos
+  </td>
+  <td align="center" width="85">
+    <img src="./icons/polygon1.png" height="45" >
+    <br>Polygon
+  </td>
+  <td align="center" width="85">
+    <img src="./icons/ton.png" height="45" >
+    <br>Ton
+  </td>
+  <td align="center" width="85">
+    <img src="./icons/trx.png" height="45" >
+    <br>Tron
+  </td>
+  <td align="center" width="85">
+    <img src="./icons/sui.png" height="45" >
+    <br>Sui
+  </td>
+</tr>
+<tr>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <br>Django
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+      <br>MySQL
+    </td>
   </tr>
-
-  <!-- frameworks -->
+<!-- common -->
   <tr>
-    <td style="width:85px; height:95px;"><img src="https://skillicons.dev/icons?i=nodejs"><br>Nodejs</td>
-    <td style="width:85px; height:95px;"><img src="https://skillicons.dev/icons?i=express"><br>Express</td>
-    <td style="width:85px; height:95px;"><img src="https://techstack-generator.vercel.app/react-icon.svg"><br>React</td>
-    <td style="width:85px; height:95px;"><img src="https://skillicons.dev/icons?i=nextjs"><br>Next.js</td>
-    <td style="width:85px; height:95px;"><img src="https://techstack-generator.vercel.app/django-icon.svg"><br>Django</td>
-    <td style="width:85px; height:95px;"><img src="https://skillicons.dev/icons?i=laravel"><br>Laravel</td>
-    <td style="width:85px; height:95px;"><img src="https://skillicons.dev/icons?i=angular"><br>Angular</td>
-    <td style="width:85px; height:95px;"><img src="https://skillicons.dev/icons?i=postgres"><br>PostgreSQL</td>
-    <td style="width:85px; height:95px;"><img src="https://skillicons.dev/icons?i=mongodb"><br>MongoDB</td>
-    <td style="width:85px; height:95px;"><img src="https://skillicons.dev/icons?i=mysql"><br>MySQL</td>
+    <td align="center" width="85">
+      <img src="./icons/openai.png" width="45" height="45" alt="binance" />
+      <br>OpenAI
+    </td>
+    <td align="center" width="85">
+      <img src="./icons/deepseek.svg" width="45" height="45" alt="DeepSeek" />
+      <br>DeepSeek
+    </td>
+    <td align="center" width="85">
+      <img src="./icons/Langchain.svg" width="45" height="45" alt="LangChain" />
+      <br>LangChain
+    </td>
+    <td align="center" width="85">
+      <img src="./icons/huggingface.svg" width="45" height="45" alt="HuggingFace" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="85">
+      <img src="./icons/eliza.jpg" width="45" height="45" alt="Eliza" />
+      <br>ElizaOS
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="55" height="55" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="85">
+      <img src="./icons/ollama.svg" width="45" height="45" alt="Ollama" />
+      <br>Ollama
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="85">
+      <img src="./icons/vapi.png" width="45" alt="VApi" />
+      <br>VApi
+    </td>
   </tr>
-
-  <!-- common -->
-  <tr>
-    <td style="width:85px; height:95px"><img src="./icons/openai.png"><br>OpenAI</td>
-    <td style="width:85px; height:95px"><img src="./icons/deepseek.svg"><br>DeepSeek</td>
-    <td style="width:85px; height:95px"><img src="./icons/Langchain.svg"><br>LangChain</td>
-    <td style="width:85px; height:95px"><img src="./icons/huggingface.svg"><br>Hugging Face</td>
-    <td style="width:85px; height:95px"><img src="./icons/eliza.jpg"><br>ElizaOS</td>
-    <td style="width:85px; height:95px"><img src="https://skillicons.dev/icons?i=tensorflow"><br>TensorFlow</td>
-    <td style="width:85px; height:95px"><img src="https://skillicons.dev/icons?i=pytorch"><br>PyTorch</td>
-    <td style="width:85px; height:95px"><img src="./icons/ollama.svg"><br>Ollama</td>
-    <td style="width:85px; height:95px"><img src="https://skillicons.dev/icons?i=fastapi"><br>FastAPI</td>
-    <td style="width:85px; height:95px"><img src="./icons/vapi.png"><br>VApi</td>
-  </tr>
-
+  
 </table>
-</div>
+
 
 
 
@@ -114,7 +205,7 @@
 <div align="center">
 
 <img alt="Azure" src="https://img.shields.io/badge/Azure-Cloud-0089D6?logo=microsoftazure&logoColor=white" />
-<img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white" />
+<img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9850?logo=awslambda&logoColor=white" />
 <img alt="GCP Cloud Run" src="https://img.shields.io/badge/Cloud_Run-4285F4?logo=googlecloud&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
